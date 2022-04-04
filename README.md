@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Thomas Franklin
 
-You can use the [editor on GitHub](https://github.com/tom10203/tom10203.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Wine Prediction - K-Nearest Neighbors Algorithm (KNN)
+This is a KNN algorithm that I wrote down from scratch. I have then used the alogorithm to predict the quality of a wine based on its features.
+Here are some of the key steps in vloved in making this project:
+- Download the dataset from Kaggle.
+- Wrangle the data to get it to be usable.
+- Make functions tonormalise the data, find the distance between datapoints and return a value.
+- 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tom10203/tom10203.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
