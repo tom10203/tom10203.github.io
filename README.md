@@ -1,7 +1,12 @@
 ## Thomas Franklin
 Welcome to my portfolio. Here are a few projects that I have worked on to test my skills and to show what I am capable of. I will continue to post new projects as I go along and to update the ones already on this page. I hope you like what you see!
 
-### [San Francisco Eviction Notices Analysis and Visualisation using Folium](
+### [San Francisco Eviction Notices Analysis and Visualisation using Folium](https://github.com/tom10203/San-Francisco-Eviction-Notices-Analysis-and-Visualisation-using-Folium)
+Here I played around with folium to create a visualisation of how many eviction notices are in each neighbourhood in San Francisco. This technique could be applied to many other useful scenarios such as plotting crime rates in certain areas. It is useful because it is easy to look at and gives a visual representation of different quantities in certain areas.
+- Import Folium and understand the format is has to go in.
+- Further clean the dataset to get the data I am wanting to use.
+- Using an API gather the lattitude and longtitude of each neighbourhood.
+- Plot the number of eviction notices in each area on to the folium map using the co-ordinates.
 
 ### [Wine Prediction - K-Nearest Neighbors Algorithm (KNN)](https://github.com/tom10203/Wine-KNN)
 This is a KNN algorithm that I wrote down from scratch. I have then used the alogorithm to predict the quality of a wine based on its features.
